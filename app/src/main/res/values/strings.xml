@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ecopontos São Paulo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="mapas">Localização dos Ecopontos</string>
+    <string name="impt">A Importância da Coleta seletiva</string>
+    <string name="corpo_texto">A separação dos resíduos transforma o que antes seria apenas descartado de forma incorreta,
+            em material reutilizável. Chamamos de coleta seletiva  o recolhimento dos resíduos orgânicos e inorgânicos, secos ou úmidos, recicláveis e não recicláveis que são
+            previamente separados na fonte geradora, recolhidos e levados para seu reaproveitamento. Com o intuito de diminuir o efeito que o lixo produzido pelas pessoas gera
+            no meio ambiente.
+            Além disso existem outros efeitos que ajudam a sociedade, como geração de empregos e renda para as pessoas envolvidas com o processo de reciclagem,
+            melhoramento da limpeza da cidade
+            e pode até prevenir enchentes. Esse aplicativo foi desenvolvido com o intuito de facilitar com que as pessoas possam colaborar com a coleta seletiva,
+            criando um impacto positivo para toda a cidade de São Paulo.</string>
+    <string name="contato">Contato</string>
+    <string name="entraremcontato">Se possuir alguma sugestão, ou quiser relatar algum bug que você encontrou, por favor entrar em contato através do e-mail: thiagopmaceda@gmail.com</string>
+</resources>
